@@ -2,18 +2,13 @@
    "files": [  
 
 {
-         "name": "TH-TRUR-NOPRO",
-         "url": "https://raw.githubusercontent.com/sansoe2022/test-online-update/main/free1.ovpn"
-      },
-
-{
          "name": "TH-DTAC-NOPRO",
-         "url": "https://raw.githubusercontent.com/sansoe2022/test-online-update/main/free2.ovpn"
+         "url": "https://raw.githubusercontent.com/eakkasitx/Octopus_VPN/master/1.ovpn"
       },
 
 {
-         "name": "TH-AIS-PLAY",
-         "url": "https://raw.githubusercontent.com/sansoe2022/test-online-update/main/us.ovpn"
+         "name": "TH-TRUE-NOPRO",
+         "url": "https://raw.githubusercontent.com/eakkasitx/Octopus_VPN/master/2.ovpn"
       }
 
 
