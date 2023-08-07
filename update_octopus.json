@@ -1,0 +1,26 @@
+{
+   "files": [  
+
+{
+         "name": "TH-TRUR-NOPRO",
+         "url": "https://raw.githubusercontent.com/sansoe2022/test-online-update/main/free1.ovpn"
+      },
+
+{
+         "name": "TH-DTAC-NOPRO",
+         "url": "https://raw.githubusercontent.com/sansoe2022/test-online-update/main/free2.ovpn"
+      },
+
+{
+         "name": "TH-AIS-PLAY",
+         "url": "https://raw.githubusercontent.com/sansoe2022/test-online-update/main/us.ovpn"
+      }
+
+
+   ],
+"message":"🚀 รุ่นการกำหนดค่า - 1 
+อัปเดตไฟล์ล่าสุด - 07/11/2022
+ใส่ข้อความตาใจชอบ",
+   "title":"คุณต้องการอัปเดตหรือไม่?",
+   "version": 1
+}
